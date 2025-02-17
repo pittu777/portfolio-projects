@@ -8,6 +8,19 @@
             "url": "https://pittu777.github.io/quotes-generator-using-js/"
         },
         {
+            "cover": "https://raw.githubusercontent.com/pittu777/portfolio777/master/assets/images/portfolio/1-port-1.png",
+            "title": "MERN E-COMMERCE",
+            "description": "html,css,js,react,mongodb,git,github,express js",
+            "url": "https://pittu777.github.io/quotes-generator-using-js/"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/pittu777/portfolio777/master/assets/images/portfolio/1-port-1.png",
+            "title": "All Projects",
+            "description": "html,css,js,react,typescript,python,express,node js",
+            "url": "https://github.com/pittu777?tab=repositories"
+        },
+       
+        {
             "cover": "https://raw.githubusercontent.com/pittu777/portfolio777/master/assets/images/portfolio/2-port-1.png",
             "title": "weather",
             "description": "html,css,js",
@@ -24,6 +37,18 @@
             "title": "counter",
             "description": "html,css,js",
             "url": "https://pittu777.github.io/counter/"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/pittu777/portfolio777/master/assets/images/portfolio/1-port-1.png",
+            "title": "Quote",
+            "description": "html,css,js",
+            "url": "https://pittu777.github.io/quotes-generator-using-js/"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/pittu777/portfolio777/master/assets/images/portfolio/1-port-1.png",
+            "title": "Quote",
+            "description": "html,css,js",
+            "url": "https://pittu777.github.io/quotes-generator-using-js/"
         },
         {
             "cover": "https://raw.githubusercontent.com/pittu777/portfolio777/master/assets/images/portfolio/5-port-1.png",
